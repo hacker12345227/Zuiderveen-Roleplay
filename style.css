@@ -67,7 +67,7 @@ nav a.active {
 .hero {
     padding: 100px 20px;
     text-align: center;
-    background: radial-gradient(circle at top, #13203a, #0a0f1c 70%);
+    background: transparent;
 }
 
 .hero h1 {
