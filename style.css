@@ -3,7 +3,8 @@
 
 body {
     margin: 0;
-    background: #0a0f1c;
+    background: url("https://i.postimg.cc/0Nc6wjVz/Ontwerp-zonder-titel-(22).png") no-repeat center center fixed;
+    background-size: cover;
     color: #e6f0ff;
     font-family: Arial, Helvetica, sans-serif;
 }
